@@ -1,1 +1,1 @@
-This is a testing file to learn git and version control by Angela Yu.
+This is chapter 1.
